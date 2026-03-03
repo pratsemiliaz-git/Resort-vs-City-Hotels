@@ -1,4 +1,6 @@
 🏨 Hotel Booking Analysis
+
+
 📌 Descripción del proyecto
 
 Este proyecto analiza un conjunto de datos de reservas hoteleras con el objetivo de identificar patrones y diferencias entre dos tipos de hoteles: Resort Hotel y City Hotel.
